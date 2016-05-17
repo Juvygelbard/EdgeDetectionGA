@@ -1,3 +1,3 @@
 echo off
-python implament1.2.py
+python implament1.3.py
 pause
